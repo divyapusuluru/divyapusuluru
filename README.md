@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🔭 I’m currently working on creating a website and also improving the UI of few other Repos.
+- 🙂 They will be soon here with working 
+- 👯 I’m looking to collaborate with the people who knows Angular. 
+- 📫 You can reach me at divyapusuluru@gmail.com
 
 <!--
 **divyapusuluru/divyapusuluru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
