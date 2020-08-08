@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on creating a website and also improving the UI of few other Repos.
 - 🙂 They will be soon here with working 
-- 👯 I’m looking to collaborate with the people who knows Angular. 
+- 👯 I’m looking to collaborate with the backend developers who uses MySQL or MongoDB. 
 - 📫 You can reach me at divyapusuluru@gmail.com
 
 <!--
